@@ -1,3 +1,14 @@
 Load Balancers-
 
-They distribute network traffic to different web servers, app servers, database servers, virtual machine instances, serverless machines, containers.
+They distribute network traffic(load) to different web servers, app servers, database servers, virtual machine instances, serverless machines, containers.
+
+Algorithms to balance load -
+
+1.  Round-Robin
+2.  Weighted Round Robin
+3.  Least Connections
+4.  Hashing Methods
+5.  URL Hash Method
+6.  Source IP Hash Method
+7.  Random Algorithm
+8.  Least Response Time Method
