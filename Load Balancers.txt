@@ -1,0 +1,3 @@
+Load Balancers-
+
+They distribute network traffic to different web servers, app servers, database servers, virtual machine instances, serverless machines, containers.
