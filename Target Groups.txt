@@ -1,0 +1,6 @@
+Target Groups
+
+Target Groups are a group of machines , servers, scale units to where the Application Load Balancer routes the client requests.
+
+Each target group is used to route requests to one or more registered targets. When you create each listener rule, you specify a target group and conditions. 
+When a rule condition is met, traffic is forwarded to the corresponding target group. You can create different target groups for different types of requests.
