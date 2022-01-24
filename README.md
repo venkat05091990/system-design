@@ -1,3 +1,3 @@
 # system-design
 
-This repository is for files related to system design and architecture
+This repository is for files related to concepts of system design and architecture
